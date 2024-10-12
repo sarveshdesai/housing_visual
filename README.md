@@ -91,6 +91,3 @@ The project concludes by showing the predicted house prices based on the trained
 
 Contributions are welcome! If you'd like to improve the project or fix any issues, feel free to submit a pull request or raise an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
