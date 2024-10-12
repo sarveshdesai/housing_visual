@@ -63,7 +63,7 @@ The project is organized as follows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/american-house-prices-prediction.git
+   git clone https://github.com/sarveshdesai/american-house-prices-prediction.git
    ```
    
 2. Navigate to the project directory:
